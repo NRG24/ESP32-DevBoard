@@ -1,0 +1,3 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"PCB SMT Components","I'm buying all of them from LCSC. If you want to see each individual part and it's details look in the BOM file of my Github Repo.",1,37.50,"","LCSC Electronics"
+"PCB","PCB for the whole dev board",5,2.00,"","JLCPCB"
